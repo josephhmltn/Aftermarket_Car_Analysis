@@ -1,5 +1,16 @@
 # Aftermarket Car Analysis 🚗
 
+## Dataset and Files
+
+### 🌐 **Original Dataset Source**
+- The original dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+
+### 💾 **Output Files**
+- Due to the large size of the output files, they are hosted on Google Drive instead of GitHub.
+  
+  1. **Jupyter Notebook Output File**: [Link to Notebook Output]([https://drive.google.com/](https://drive.google.com/file/d/1TQHDP2wWIpLqpkqRiQl2hAKR797IMgfk/view?usp=drive_link))
+  2. **Excel Output File**: [Link to Excel Output]([https://drive.google.com/](https://drive.google.com/file/d/1MGVJiROIay1-hTaDoPq5_ElJQfUmxL0S/view?usp=drive_link))
+
 ## Summary of Jupyter Notebook Data Cleaning and Transformation
 
 ### 📚 **Importing Libraries and Data Load**
