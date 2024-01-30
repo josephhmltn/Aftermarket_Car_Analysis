@@ -18,7 +18,7 @@
 
 ### 🧹 **Initial Data Cleaning and Transformation**
 - **Clean & Tidy**: Cleaning and transformation operations like:
-- - Changing data types
+  - Changing data types
   - Dropping unneccessary columns
   - Removing rows where year and odometer had NaN values
   - Removing rows where price was 0
