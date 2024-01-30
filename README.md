@@ -12,7 +12,7 @@
   - **Excel Output File**: [Link to Excel Output](https://drive.google.com/file/d/1MGVJiROIay1-hTaDoPq5_ElJQfUmxL0S/view?usp=drive_link)
 
 ### 🔄 **Initial Data Handling Attempt**
-- **Pivoted Approach**: Initially attempted to split the dataset for loading into a free data lake like BigQuery, but pivoted to a double cleaning process (Python and MS Excel) due to numerous errors and BigQuery's max local file upload size of 100 MB. The code for splitting the CSV is [here](ajksdhf).
+- **Pivoted Approach**: Initially attempted to split the dataset for loading into a free data lake like BigQuery, but pivoted to a double cleaning process (Python and MS Excel) due to numerous errors and BigQuery's max local file upload size of 100 MB. The code for splitting the CSV is [here](https://github.com/josephhmltn/Aftermarket_Car_Analysis/blob/main/Splitting_CSV_file.ipynb).
 
 ## Summary of Jupyter Notebook Data Cleaning and Transformation
 
